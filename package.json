@@ -1,10 +1,6 @@
 {
   "name": "git",
-
   "version": "1.0.0",
-
- 
-
   "description": "CVS SVN VSS",
   "main": "index.js",
   "scripts": {
